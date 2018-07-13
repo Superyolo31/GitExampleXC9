@@ -14,7 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print("some change")
+        print("some changemade in yolxi-brand")
     }
 
     override var representedObject: Any? {
